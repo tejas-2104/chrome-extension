@@ -25,5 +25,9 @@
             "resources": ["images/save.png"],
             "matches": ["https://www.linkedin.com/*"]
         }
-    ]
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "images/icon-16.png"
+    }
 }
