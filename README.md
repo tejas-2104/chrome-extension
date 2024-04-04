@@ -35,7 +35,7 @@ The LinkedIn Voice Assistant is a Chrome extension designed to offer a hands-fre
 
 4. Click on the `Load unpacked` button and select the directory where you cloned the repository.
 
-5. Once loaded, the extension will appear in the Chrome toolbar as the LinkedIn Voice Assistant icon ![Extension Icon](images/icon-32.png).
+5. Once loaded, the extension will appear in the Chrome toolbar as the LinkedIn Voice Assistant icon.
 
 ## Usage
 
